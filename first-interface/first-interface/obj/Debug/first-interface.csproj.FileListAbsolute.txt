@@ -1,0 +1,16 @@
+G:\Mi unidad\Formación\230223-youtube-pi-wpf-tutorial\first-interface\first-interface\bin\Debug\first-interface.exe.config
+G:\Mi unidad\Formación\230223-youtube-pi-wpf-tutorial\first-interface\first-interface\bin\Debug\first-interface.exe
+G:\Mi unidad\Formación\230223-youtube-pi-wpf-tutorial\first-interface\first-interface\bin\Debug\first-interface.pdb
+G:\Mi unidad\Formación\230223-youtube-pi-wpf-tutorial\first-interface\first-interface\obj\Debug\first-interface.csproj.AssemblyReference.cache
+G:\Mi unidad\Formación\230223-youtube-pi-wpf-tutorial\first-interface\first-interface\obj\Debug\first-interface.csproj.SuggestedBindingRedirects.cache
+G:\Mi unidad\Formación\230223-youtube-pi-wpf-tutorial\first-interface\first-interface\obj\Debug\MainWindow.g.cs
+G:\Mi unidad\Formación\230223-youtube-pi-wpf-tutorial\first-interface\first-interface\obj\Debug\App.g.cs
+G:\Mi unidad\Formación\230223-youtube-pi-wpf-tutorial\first-interface\first-interface\obj\Debug\first-interface_MarkupCompile.cache
+G:\Mi unidad\Formación\230223-youtube-pi-wpf-tutorial\first-interface\first-interface\obj\Debug\first-interface_MarkupCompile.lref
+G:\Mi unidad\Formación\230223-youtube-pi-wpf-tutorial\first-interface\first-interface\obj\Debug\MainWindow.baml
+G:\Mi unidad\Formación\230223-youtube-pi-wpf-tutorial\first-interface\first-interface\obj\Debug\first-interface.g.resources
+G:\Mi unidad\Formación\230223-youtube-pi-wpf-tutorial\first-interface\first-interface\obj\Debug\first_interface.Properties.Resources.resources
+G:\Mi unidad\Formación\230223-youtube-pi-wpf-tutorial\first-interface\first-interface\obj\Debug\first-interface.csproj.GenerateResource.cache
+G:\Mi unidad\Formación\230223-youtube-pi-wpf-tutorial\first-interface\first-interface\obj\Debug\first-interface.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Formación\230223-youtube-pi-wpf-tutorial\first-interface\first-interface\obj\Debug\first-interface.exe
+G:\Mi unidad\Formación\230223-youtube-pi-wpf-tutorial\first-interface\first-interface\obj\Debug\first-interface.pdb
